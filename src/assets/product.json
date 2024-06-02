@@ -1,0 +1,40 @@
+
+
+[
+  {
+  "cardId": 1,
+  "titel": "grain",
+  "omschrijving": "grain",
+  "afbeelding": "/src/assets/images/grain_backgr.jpg",
+  "prijs": 99.99,
+  "btwTarief": 21,
+  "stock": 99,
+    "quantity": 0,
+    "categorie": "grain",
+    "kleur": "grain"
+  },
+  {
+    "cardId": 2,
+    "titel": "grain",
+    "omschrijving": "grain",
+    "afbeelding": "/src/assets/images/grain_backgr.jpg",
+    "prijs": 99.99,
+    "btwTarief": 21,
+    "stock": 99,
+    "quantity": 0,
+    "categorie": "grain",
+    "kleur": "grain"
+  },
+  {
+    "cardId": 3,
+    "titel": "grain",
+    "omschrijving": "grain",
+    "afbeelding": "/src/assets/images/grain_backgr.jpg",
+    "prijs": 99.99,
+    "btwTarief": 21,
+    "stock": 99,
+    "quantity": 0,
+    "categorie": "grain",
+    "kleur": "grain"
+  }
+]
