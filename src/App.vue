@@ -122,10 +122,10 @@ export default {
 </script>
 
 <style lang="scss"  scoped>
-$x-axis: 12;
-$y-axis: 5;
-$x-width: 100px * $x-axis;
-$y-height: 100px * $y-axis;
+$x-axis: 3;
+$y-axis: 2;
+$x-width: 100px * $x-axis + 50px;
+$y-height: 100px * $y-axis + 50px;
 .buildup {
   display: flex;
   flex-direction: column;
@@ -164,8 +164,8 @@ p {
   display: flex;
   justify-content: center;
   align-items: center;
-  width: calc((1000px / $x-axis) - (calc((1000px /$x-axis) * 0.1) - 1px));
-  height: calc((1000px / $x-axis) - (calc((1000px / $x-axis) * 0.1) - 1px));
+  width: calc((1000px / 12) - (calc((1000px /12) * 0.1) - 1px));
+  height: calc((1000px / 12) - (calc((1000px / 12) * 0.1) - 1px));
   box-sizing: border-box;
 }
 
